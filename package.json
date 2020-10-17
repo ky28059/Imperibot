@@ -1,0 +1,12 @@
+{
+  "name": "Imperibot",
+  "version": "1.0.0",
+  "description": "Bot for Imperichat",
+  "main": "bot.js",
+  "author": "Kevin Yu",
+  "type": "module",
+  "dependencies": {
+    "imperichat-js": "^1.0.4",
+    "node-fetch": "^2.6.1"
+  }
+}
